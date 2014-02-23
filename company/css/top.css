@@ -1,0 +1,18 @@
+body{
+	background-image : url('../img/dhl.png');
+	background-repeat: no-repeat;
+	background-position: 50% 2cm;
+}
+h1{
+	color :	#990000;
+	background-color : #FC9804;
+	font-family : arial, verdana, sans-serif;
+	text-align: center;
+}
+
+div.center{
+	position: relative;
+	left: 40%;
+	top: 40px;
+	width: 400px; 
+}
